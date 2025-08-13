@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #242424;
+    color: white;
+}
+.container{
+    margin: 0 5%;
+}
+.menu ul{
+
+    text-align: justify;
+    display: flex;
+    float: right;
+    gap: 40px;
+    margin-top: -5%;
+}
+
+.menu a{
+    text-decoration: none;
+    list-style: none;
+}
+.menu ul{
+    list-style: none; 
+    font-size: 15px;
+}
+.logo img{
+    display: flex;
+    width: 150px;
+} 
+.hero-wrappetr{
+    margin-top: 140PX;
+    margin-left: 5%;
+}
+.hero-name h1{
+    font-size: 30px;
+}
+.red-border{
+    border: 2px solid rgb(236, 58, 13);
+    width: 40%;
+}
+.hero-info{
+    font-size: 40px;
+}
+.hero-img{
+    float: right;
+    margin-top: -20%;
+    margin-right: 20px;
+}
+.sub-header{
+    margin-left: 12%;
+}
+.sub-header2{
+    margin-left: 17%;
+}
+.bio{
+    margin-top: 40%;
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-left: 20%;
+}
+.hero-img2{
+   position: relative;
+}
+
+.hero-detailes{
+    background-color: #efefee;
+    height: 47%;
+    padding-right: 47%;
+}
+
+.red-cercle{
+    border: 10px solid rgb(236, 58, 13);
+    height: 95px;
+    width: 95px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: -70.5%;
+    margin-left: 50.7%;
+    background: transparent;
+
+}
+
+.Biography{
+    float: right;
+    margin-top: -60%;
+    background: transparent;
+    
+}
+.Biography h1{
+    color: black;
+    background: transparent;
+    font-size: 55px;
+    margin-right: 150px;
+}
+
+.red-line{
+    border-bottom: 4px solid rgb(236, 58, 13);
+    background: transparent;
+    width: 24%;
+    float: right;
+    margin-top: -56%;
+}
+.bio-info{
+    background: transparent;
+    color: black;
+    padding-left: 55%;
+    margin-top: -55%;
+    font-size: 20px;
+    margin-right: 90px;
+}
+
+.batton a{
+    color: #fff;
+    float: right;
+    text-decoration: none;
+    margin-right: 37%;
+    margin-top: -37%;
+    background: transparent;
+    border: 20px solid #ff3308;
+    border-radius: 30%;
+    background-color: #ff3308;
+}
+.footeer-bacgraound{
+    background-color: #242424;
+    padding: 9%;
+    margin-top: 40.3%;
+    
+}
+.footar-logo img{
+    background: transparent;
+    float: right;
+    margin-top: -15%;
+    margin-right: 15%;
+    
+
+}
+.page-items{
+    padding-left: 29%;
+    background: transparent;
+    margin-top: -14%;
+    list-style: none;
+    background-color: #242424;
+
+}
+
+.contact-page{
+    padding-left: 50%;
+    margin-top: -11.5%;
+}
+
+.Designed{
+   
+    height: 40px;
+    margin-top: 12%;
+    text-align: center;  
+
+}
+
+.Designer-background p{
+    background-color: #202020;
+    margin-top: 15%;
+    text-align: center;
+    border: 10px solid #202020;
+}
+

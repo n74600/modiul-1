@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #202020;
+    color: white;
+}
+.container{
+    margin: 0 5%;
+}
+.menu ul{
+
+    text-align: justify;
+    display: flex;
+    float: right;
+    gap: 40px;
+    margin-top: -5%;
+}
+
+.menu a{
+    text-decoration: none;
+    list-style: none;
+}
+.menu ul{
+    list-style: none; 
+    font-size: 15px;
+}
+.logo img{
+    display: flex;
+    width: 150px;
+} 
+.media-heading{
+    text-align: center;
+    margin-top: 1.5%;
+    font-size: 30PX;    
+}
+.media-wrapper{
+      margin-left: 20%;
+      margin-top: 2%;
+}
+.media-img-1 img{
+    width:35%;
+}
+.media-p1{
+    font-size: 27px;
+    margin-top: 4px;
+    color: #ff3800;
+    padding-left: 6.5%;
+}
+
+
+/* img2 */
+
+.media-img-2 img{
+    width:35%;
+    margin-top: 5%;
+}
+.media-2p1{
+    font-size: 27px;
+    margin-top: 4px;
+    color: #ff3800;
+    padding-left: 6.5%;
+}
+
+
+/* img3 */
+.media-img-3 img{
+    width:35.3%;
+    margin-top: 5%;
+}
+.media-3p1{
+    font-size: 26px;
+    margin-top: 4px;
+    color: #ff3800;
+}
+
+
+/* img4 */
+
+.media-wrapper-2{
+    margin-left: 50%;
+    margin-top: -59.2%;
+}
+
+.media-img-4 img{
+    width:54%;  
+}
+
+.media-4p1{
+    font-size: 28.5px;
+    color: #ff3800;
+    padding-left: 19%;
+    
+}
+
+
+/* img5 */
+.media-img-5 img{
+    width:55.5%;
+    margin-top: 7.8%;  
+}
+
+.media-5p1{
+    font-size: 28.5px;
+    color: #ff3800;
+    padding-left: 19%;
+}
+
+
+/* img6 */
+.media-img-6 img{
+    width:55.5%;
+    margin-top: 8.3%;  
+}
+
+.media-6p1{
+    font-size: 26px;
+    color: #ff3800;
+}
+
+
+
+/* footer... */
+
+.footeer-bacgraound{
+    background-color: #242424;
+    padding: 9%;
+    margin-top: 1%;
+    
+}
+.footar-logo img{
+    background: transparent;
+    float: right;
+    margin-top: -15.5%;
+    margin-right: 15%;
+    
+
+}
+.page-items{
+    padding-left: 29%;
+    background: transparent;
+    margin-top: -14%;
+    list-style: none;
+    background-color: #242424;
+
+}
+.page-items li{
+     background-color: #242424;
+}
+
+.contact-page{
+    padding-left: 50%;
+    margin-top: -11.5%;
+    background-color: #242424;
+}
+
+.Designer-background{
+    text-align: center;
+    margin-top: 12%;
+    background-color: #202020;
+    height: 5%;
+    width: 100%;
+}
+
+
+
+
+
+
+

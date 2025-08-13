@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #242424;
+    color: white;
+}
+.container{
+    margin: 0 5%;
+}
+.menu ul{
+
+    text-align: justify;
+    display: flex;
+    float: right;
+    gap: 40px;
+    margin-top: -5%;
+}
+
+.menu a{
+    text-decoration: none;
+    list-style: none;
+}
+.menu ul{
+    list-style: none; 
+    font-size: 15px;
+}
+.logo img{
+    display: flex;
+    width: 150px;
+} 
+.media-heading{
+    text-align: center;
+    margin-top: 1.5%;
+    font-size: 30PX;    
+}
+.media-wrapper{
+      margin-left: 20%;
+      margin-top: 2%;
+}
+.media-img-1 img{
+    width:35%;
+}
+.media-p1{
+    font-size: 27px;
+    margin-top: 4px;
+    color: #ff3800;
+}
+.media-p2{
+    font-size: 18.3px;
+    margin-top: 1%;
+}
+
+/* img2 */
+
+.media-img-2 img{
+    width:35%;
+    margin-top: 5%;
+}
+.media-2p1{
+    font-size: 27px;
+    margin-top: 4px;
+    color: #ff3800;
+}
+.media-2p2{
+    font-size: 18.3px;
+    margin-top: 1%;
+}
+
+/* img3 */
+.media-img-3 img{
+    width:35.3%;
+    margin-top: 5%;
+}
+.media-3p1{
+    font-size: 26px;
+    margin-top: 4px;
+    color: #ff3800;
+}
+.media-3p2{
+    font-size: 18px;
+    margin-top: 1%;
+}
+
+/* img4 */
+.media-img-4 img{
+    width:35.2%;
+    margin-top: 5%;
+}
+.media-4p1{
+    font-size: 27px;
+    margin-top: 4px;
+    color: #ff3800;
+}
+.media-4p2{
+    font-size: 18.3px;
+    margin-top: 1%;
+}
+
+/* img5 */
+
+.media-wrapper-2{
+    margin-left: 50%;
+    margin-top: -109.7%;
+}
+
+.media-img-5 img{
+    width:55.5%;  
+}
+
+.media-5p1{
+    font-size: 28.5px;
+    color: #ff3800;
+}
+.media-5p2{
+    font-size: 17px;
+    padding-top: 2%;
+}
+
+/* img6 */
+.media-img-6 img{
+    width:55.5%;
+    margin-top: 7.1%;  
+}
+
+.media-6p1{
+    font-size: 28.5px;
+    color: #ff3800;
+}
+.media-6p2{
+    font-size: 17px;
+    padding-top: 2%;
+}
+
+/* img7 */
+.media-img-7 img{
+    width:55.5%;
+    margin-top: 7.1%;  
+}
+
+.media-7p1{
+    font-size: 28.5px;
+    color: #ff3800;
+}
+.media-7p2{
+    font-size: 17px;
+    padding-top: 2%;
+}
+
+.white-border div{
+    background-color: white;
+    height: 63px;
+    width: 100%;
+    margin-top: 33%;
+}
+
+/* footer... */
+
+
+
+.footeer-bacgraound{
+    background-color: #242424;
+    padding: 9%;
+    
+}
+.footar-logo img{
+    background: transparent;
+    float: right;
+    margin-top: -15%;
+    margin-right: 15%;
+    
+
+}
+.page-items{
+    padding-left: 29%;
+    background: transparent;
+    margin-top: -14%;
+    list-style: none;
+    background-color: #242424;
+
+}
+
+.contact-page{
+    padding-left: 50%;
+    margin-top: -11.5%;
+}
+
+.Designed{
+   
+    height: 40px;
+    margin-top: 12%;
+    text-align: center;  
+
+}
+
+.Designer-background p{
+    background-color: #202020;
+    margin-top: 15%;
+    text-align: center;
+    border: 10px solid #202020;
+}
+
